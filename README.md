@@ -5,6 +5,8 @@
 [![Downloads](https://img.shields.io/npm/dm/@adempiere/grpc-dictionary-client.svg)](https://www.npmjs.com/package/@adempiere/grpc-dictionary-client)
 [![Dependencies](https://img.shields.io/librariesio/github/erpcya/grpc-dictionary-client.svg)](https://www.npmjs.com/package/@adempiere/grpc-dictionary-client)
 
+#### @DEPRECATED Replace with https://github.com/adempiere/gRPC-API
+
 ADempiere Dictionary Client write in Javascript for gRPC service, use it for connect with
 [ADempiere-gRPC-Server](https://github.com/erpcya/adempiere-gRPC-Server).
 
